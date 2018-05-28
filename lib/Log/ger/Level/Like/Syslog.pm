@@ -1,4 +1,4 @@
-package Log::ger::Level::Like::LogAny;
+package Log::ger::Level::Like::Syslog;
 
 # DATE
 # VERSION
